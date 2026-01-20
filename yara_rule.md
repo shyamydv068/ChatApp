@@ -219,7 +219,3 @@ print(json.dumps(out,indent=2))
 
 ---
 
-If you want, I can:
-- Generate a repo skeleton (rules/, tests/, lab-notes/) with example rules and test samples.
-- Produce a printable one-page cheat-sheet PDF for lab benches.
-Which do you prefer?
